@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 008b520c1fa0c0c4e940465abd21837a
+timeCreated: 1564289911
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ahohair_00
+    100002: ahohair_01
+    100004: ahohair_02
+    100006: ahohair_03
+    100008: body
+    100010: Chest
+    100012: eye_L
+    100014: eye_R
+    100016: face
+    100018: Foot_L
+    100020: Foot_R
+    100022: fronthair_00
+    100024: fronthair_01
+    100026: fronthair_02
+    100028: Hand_L
+    100030: Hand_R
+    100032: Head
+    100034: Hips
+    100036: IndexDistal_L
+    100038: IndexDistal_R
+    100040: IndexIntermediate_L
+    100042: IndexIntermediate_R
+    100044: IndexProximal_L
+    100046: IndexProximal_R
+    100048: j_ponytale_01
+    100050: j_ponytale_010
+    100052: j_ponytale_02
+    100054: j_ponytale_03
+    100056: j_ponytale_04
+    100058: j_ponytale_05
+    100060: j_ponytale_06
+    100062: j_ponytale_07
+    100064: j_ponytale_08
+    100066: j_ponytale_09
+    100068: j_ponytale_thin_00_L
+    100070: j_ponytale_thin_00_L1
+    100072: j_ponytale_thin_01_L
+    100074: j_ponytale_thin_01_L 1
+    100076: j_ponytale_thin_02_L
+    100078: j_ponytale_thin_02_L 1
+    100080: j_ponytale_thin_03_L
+    100082: j_ponytale_thin_03_L 1
+    100084: j_ponytale_thin_04_L
+    100086: j_ponytale_thin_04_L 1
+    100088: j_ponytale_thin_05_L
+    100090: j_ponytale_thin_05_L 1
+    100092: j_ponytale_thin_06_L
+    100094: j_skirt_00
+    100096: LittleDistal_L
+    100098: LittleDistal_R
+    100100: LittleIntermediate_L
+    100102: LittleIntermediate_R
+    100104: LittleProximal_L
+    100106: LittleProximal_R
+    100108: LoewerArm_L
+    100110: LoewerArm_R
+    100112: LowerLeg_L
+    100114: LowerLeg_R
+    100116: //RootNode
+    100118: MiddleDistal_L
+    100120: MiddleDistal_R
+    100122: MiddleIntermediate_L
+    100124: MiddleIntermediate_R
+    100126: MiddleProximal_L
+    100128: MiddleProximal_R
+    100130: Neck
+    100132: ribbon_00_L
+    100134: ribbon_00_R
+    100136: ribbon_01_L
+    100138: ribbon_01_R
+    100140: ribbon_center
+    100142: RingDistal_L
+    100144: RingDistal_R
+    100146: RingIntermediate_L
+    100148: RingIntermediate_R
+    100150: RingProximal_L
+    100152: RingProximal_R
+    100154: Shoulder_L
+    100156: Shoulder_R
+    100158: sidehair_00_L
+    100160: sidehair_00_R
+    100162: sidehair_01_L
+    100164: sidehair_01_R
+    100166: sidehair_02_L
+    100168: sidehair_02_R
+    100170: skirt
+    100172: skirt_a_00
+    100174: skirt_a_01
+    100176: skirt_a_02
+    100178: skirt_b_00
+    100180: skirt_b_01
+    100182: skirt_b_02
+    100184: skirt_b_04
+    100186: skirt_b_05
+    100188: skirt_b_06
+    100190: skirt_c_00
+    100192: skirt_c_01
+    100194: skirt_c_02
+    100196: skirt_d_00
+    100198: skirt_d_01
+    100200: skirt_d_02
+    100202: skirt_e_00
+    100204: skirt_e_01
+    100206: skirt_e_02
+    100208: skirt_f_00
+    100210: skirt_f_01
+    100212: skirt_f_02
+    100214: skirt_g_00
+    100216: skirt_g_01
+    100218: skirt_g_02
+    100220: Spine
+    100222: ThumbDistal_L
+    100224: ThumbDistal_R
+    100226: ThumbIntermediate_L
+    100228: ThumbIntermediate_R
+    100230: ThumbProximal_L
+    100232: ThumbProximal_R
+    100234: Toes_L
+    100236: Toes_R
+    100238: UpperArm_L
+    100240: UpperArm_R
+    100242: UpperLeg_L
+    100244: UpperLeg_R
+    400000: ahohair_00
+    400002: ahohair_01
+    400004: ahohair_02
+    400006: ahohair_03
+    400008: body
+    400010: Chest
+    400012: eye_L
+    400014: eye_R
+    400016: face
+    400018: Foot_L
+    400020: Foot_R
+    400022: fronthair_00
+    400024: fronthair_01
+    400026: fronthair_02
+    400028: Hand_L
+    400030: Hand_R
+    400032: Head
+    400034: Hips
+    400036: IndexDistal_L
+    400038: IndexDistal_R
+    400040: IndexIntermediate_L
+    400042: IndexIntermediate_R
+    400044: IndexProximal_L
+    400046: IndexProximal_R
+    400048: j_ponytale_01
+    400050: j_ponytale_010
+    400052: j_ponytale_02
+    400054: j_ponytale_03
+    400056: j_ponytale_04
+    400058: j_ponytale_05
+    400060: j_ponytale_06
+    400062: j_ponytale_07
+    400064: j_ponytale_08
+    400066: j_ponytale_09
+    400068: j_ponytale_thin_00_L
+    400070: j_ponytale_thin_00_L1
+    400072: j_ponytale_thin_01_L
+    400074: j_ponytale_thin_01_L 1
+    400076: j_ponytale_thin_02_L
+    400078: j_ponytale_thin_02_L 1
+    400080: j_ponytale_thin_03_L
+    400082: j_ponytale_thin_03_L 1
+    400084: j_ponytale_thin_04_L
+    400086: j_ponytale_thin_04_L 1
+    400088: j_ponytale_thin_05_L
+    400090: j_ponytale_thin_05_L 1
+    400092: j_ponytale_thin_06_L
+    400094: j_skirt_00
+    400096: LittleDistal_L
+    400098: LittleDistal_R
+    400100: LittleIntermediate_L
+    400102: LittleIntermediate_R
+    400104: LittleProximal_L
+    400106: LittleProximal_R
+    400108: LoewerArm_L
+    400110: LoewerArm_R
+    400112: LowerLeg_L
+    400114: LowerLeg_R
+    400116: //RootNode
+    400118: MiddleDistal_L
+    400120: MiddleDistal_R
+    400122: MiddleIntermediate_L
+    400124: MiddleIntermediate_R
+    400126: MiddleProximal_L
+    400128: MiddleProximal_R
+    400130: Neck
+    400132: ribbon_00_L
+    400134: ribbon_00_R
+    400136: ribbon_01_L
+    400138: ribbon_01_R
+    400140: ribbon_center
+    400142: RingDistal_L
+    400144: RingDistal_R
+    400146: RingIntermediate_L
+    400148: RingIntermediate_R
+    400150: RingProximal_L
+    400152: RingProximal_R
+    400154: Shoulder_L
+    400156: Shoulder_R
+    400158: sidehair_00_L
+    400160: sidehair_00_R
+    400162: sidehair_01_L
+    400164: sidehair_01_R
+    400166: sidehair_02_L
+    400168: sidehair_02_R
+    400170: skirt
+    400172: skirt_a_00
+    400174: skirt_a_01
+    400176: skirt_a_02
+    400178: skirt_b_00
+    400180: skirt_b_01
+    400182: skirt_b_02
+    400184: skirt_b_04
+    400186: skirt_b_05
+    400188: skirt_b_06
+    400190: skirt_c_00
+    400192: skirt_c_01
+    400194: skirt_c_02
+    400196: skirt_d_00
+    400198: skirt_d_01
+    400200: skirt_d_02
+    400202: skirt_e_00
+    400204: skirt_e_01
+    400206: skirt_e_02
+    400208: skirt_f_00
+    400210: skirt_f_01
+    400212: skirt_f_02
+    400214: skirt_g_00
+    400216: skirt_g_01
+    400218: skirt_g_02
+    400220: Spine
+    400222: ThumbDistal_L
+    400224: ThumbDistal_R
+    400226: ThumbIntermediate_L
+    400228: ThumbIntermediate_R
+    400230: ThumbProximal_L
+    400232: ThumbProximal_R
+    400234: Toes_L
+    400236: Toes_R
+    400238: UpperArm_L
+    400240: UpperArm_R
+    400242: UpperLeg_L
+    400244: UpperLeg_R
+    4300000: body
+    4300002: face
+    4300004: skirt
+    9500000: //RootNode
+    13700000: body
+    13700002: face
+    13700004: skirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
